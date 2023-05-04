@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(224, 203, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#menu ul li a:hover {
+    background-color: rgb(255, 232, 127);
+}
